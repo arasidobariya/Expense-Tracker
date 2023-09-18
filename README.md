@@ -1,43 +1,35 @@
-# Getting Started with Create React App
+# Expense Tracker App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## Project Summary
 
-In the project directory, you can run:
+Welcome to the Expense Tracker App! This application is designed to help you manage your finances efficiently by tracking your expenses. With this app, you can gain better control over your financial transactions and make informed decisions about your spending.
 
-### `npm start`
+### Key Features
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+1. **Expense Recording:** Users can easily record their daily expenses, including the title, date, and expense amount. 
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+2. **Date Filtering:** The app offers a convenient date filtering mechanism, enabling users to view and analyze their expenses for specific time periods.
 
-### `npm test`
+3. **Visual Reports:** Interactive charts and graphs offer users a visual representation of their financial data. These reports help users gain insights into their spending habits and make informed decisions about their finances.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### Technologies Used
 
-### `npm run build`
+- React, CSS Module, React hooks
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Getting Started
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+To explore the Expense Tracker App:
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+1. Clone the repository: `git clone https://github.com/arasidobariya/expense-tracker.git`
+2. Navigate to the project directory: `cd expense-tracker`
+3. Install dependencies: `npm install`
+4. Start the development server: `npm start`
 
-### `npm run eject`
+The app can be accessed in a web browser at `http://localhost:3000`.
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+Thank you for choosing the Expense Tracker App. We hope it empowers you to take control of your finances and make informed financial decisions.
 
 ## Learn More
 
